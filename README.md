@@ -25,21 +25,23 @@
 ### 1. Home Screen (Empty State)
 Shows the fallback illustration when there are no vibes added yet.
 
-![Home Screen](readme_assets/Screenshot_1.png)
+
+<img width="1080" height="2400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7ca3355e-7331-4ad8-ad7e-5e7ecc0e1140" />
 
 ---
 
 ### 2. Add Vibe Screen
 Form to enter mood details, pick emoji tags, and write a short explanation.
 
-![Add Vibe](readme_assets/Screenshot_2.png)
+<img width="1080" height="2400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2e12f1f2-b854-4cf5-bd31-7982ea6a6fba" />
+
 
 ---
 
 ### 3. Select Date
 Date picker in action when adding a vibe.
 
-![Select Date](readme_assets/Screenshot_3.png)
+<img width="1080" height="2400" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b02db1f0-3163-42d4-9ce4-7c4c963d48d1" />
 
 
 ---
@@ -47,7 +49,7 @@ Date picker in action when adding a vibe.
 ### 4. Home Screen (Full State)
 Vibes displayed and grouped by date in a grid layout.
 
-![Home Screen Full](readme_assets/Screenshot_4.png)
+<img width="1080" height="2400" alt="Screenshot_4" src="https://github.com/user-attachments/assets/bdd9549f-1362-4a7e-a823-809f90ccd650" />
 
 
 ---
@@ -55,7 +57,7 @@ Vibes displayed and grouped by date in a grid layout.
 ### 5. Deleting a Vibe
 Swipe/delete action to remove a vibe from the list.
 
-![Deleting Vibe](readme_assets/Screenshot_5.png)
+<img width="1080" height="2400" alt="Screenshot_5" src="https://github.com/user-attachments/assets/cdaa082a-c0da-41f0-ba17-598feaad060f" />
 
 
 ## 📥 Installation
