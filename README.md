@@ -25,15 +25,15 @@
 ### 1. Home Screen (Empty State)
 Shows the fallback illustration when there are no vibes added yet.
 
+<img width="270" height="600" alt="Screenshot_1" src="https://github.com/user-attachments/assets/74c4b317-ddc9-4b9d-8c85-9f51fd3de268" />
 
-<img width="1080" height="2400" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7ca3355e-7331-4ad8-ad7e-5e7ecc0e1140" />
 
 ---
 
 ### 2. Add Vibe Screen
 Form to enter mood details, pick emoji tags, and write a short explanation.
 
-<img width="1080" height="2400" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2e12f1f2-b854-4cf5-bd31-7982ea6a6fba" />
+<img width="270" height="600" alt="Screenshot_2" src="https://github.com/user-attachments/assets/42b7694f-0520-44a9-ba79-7b6f4c15d45b" />
 
 
 ---
@@ -41,7 +41,7 @@ Form to enter mood details, pick emoji tags, and write a short explanation.
 ### 3. Select Date
 Date picker in action when adding a vibe.
 
-<img width="1080" height="2400" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b02db1f0-3163-42d4-9ce4-7c4c963d48d1" />
+<img width="270" height="600" alt="Screenshot_3" src="https://github.com/user-attachments/assets/5a5c11b3-6413-4c4e-8465-35d70bff984e" />
 
 
 ---
@@ -49,7 +49,7 @@ Date picker in action when adding a vibe.
 ### 4. Home Screen (Full State)
 Vibes displayed and grouped by date in a grid layout.
 
-<img width="1080" height="2400" alt="Screenshot_4" src="https://github.com/user-attachments/assets/bdd9549f-1362-4a7e-a823-809f90ccd650" />
+<img width="270" height="600" alt="Screenshot_4" src="https://github.com/user-attachments/assets/c643400e-6f32-4e87-b2d9-96509bf84d42" />
 
 
 ---
@@ -57,7 +57,7 @@ Vibes displayed and grouped by date in a grid layout.
 ### 5. Deleting a Vibe
 Swipe/delete action to remove a vibe from the list.
 
-<img width="1080" height="2400" alt="Screenshot_5" src="https://github.com/user-attachments/assets/cdaa082a-c0da-41f0-ba17-598feaad060f" />
+<img width="270" height="600" alt="Screenshot_5" src="https://github.com/user-attachments/assets/a4446c76-6047-4bbf-97f7-ff507fda6308" />
 
 
 ## 📥 Installation
